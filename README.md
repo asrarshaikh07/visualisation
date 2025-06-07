@@ -1,5 +1,15 @@
 # visualisation
 This Power BI dashboard presents a comparative analysis of Apple, Tesla, Bitcoin, and the Nasdaq 100 over a 4-year period (2020–2023). It visualizes both 7-Day Moving Averages and Daily Percentage Change, allowing users to explore long-term trends and short-term volatility across traditional stocks and cryptocurrency markets.
+
+
+Real-Time KPI Panel for Market Monitoring
+Designed and styled a dynamic KPI panel in Power BI to display the latest market prices and daily % change for major assets like Bitcoin, Apple, and Ethereum. Applied conditional formatting, rounded UI styling, and color-coded trends to enhance executive readability and real-time decision-making. Panel auto-updates with the latest available dataset.
+
+
+![image](https://github.com/user-attachments/assets/8b7d52f3-d88e-4198-b2e6-b9fb3659c2a2)
+
+
+
 ![image](https://github.com/user-attachments/assets/9bed392f-49c7-41ab-9db6-e328e654d2b6)
 
 🧠 Key Insights
