@@ -1,5 +1,8 @@
 # visualisation
 This Power BI dashboard presents a comparative analysis of Apple, Tesla, Bitcoin, and the Nasdaq 100 over a 4-year period (2020–2023). It visualizes both 7-Day Moving Averages and Daily Percentage Change, allowing users to explore long-term trends and short-term volatility across traditional stocks and cryptocurrency markets.
+
+
+
 ![image](https://github.com/user-attachments/assets/9bed392f-49c7-41ab-9db6-e328e654d2b6)
 
 🧠 Key Insights
